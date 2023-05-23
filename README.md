@@ -22,7 +22,7 @@ Estas son algunas de las tecnologías y herramientas con las que trabajo:
       </td>
        <td width="25%" align="center">
         <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg">
+        <img height="64px" src="[https://cdn.worldvectorlogo.com/logos/mysql-5.svg](https://cdn.worldvectorlogo.com/logos/mysql-6.svg)">
       </td>
       <td width="25%" align="center">
         <span>Oracle</span><br><br><br>
