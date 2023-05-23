@@ -38,7 +38,7 @@ Estas son algunas de las tecnologías y herramientas con las que trabajo:
       </td>
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/html5.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
       </td>
     </tr>
     <tr valign="top">
