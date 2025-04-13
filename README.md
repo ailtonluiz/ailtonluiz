@@ -47,6 +47,22 @@ Sistema robusto de gestión de biblioteca desarrollado con arquitectura moderna 
 
 ## 🎓 Formación y Certificaciones
 
+### Formación Académica
+- 🎓 **Bacharel em Sistemas de Informação** - FASAM (Faculdade Sul-Americana)
+  - Formación completa en desarrollo y gestión de sistemas
+  - Énfasis en:
+    - Redes de computadores
+    - Bases de datos
+    - Inteligencia artificial
+    - Computación gráfica
+    - Internet y comercio electrónico
+  - Competencias desarrolladas:
+    - Análisis y desarrollo de sistemas
+    - Gestión de proyectos de TI
+    - Arquitectura de software
+    - Programación y desarrollo web
+    - Gestión de bases de datos
+
 
 ### Cursos Especializados - AlgaWorks
 - 🌟 **Especialista Spring REST** - AlgaWorks
@@ -68,8 +84,6 @@ Sistema robusto de gestión de biblioteca desarrollado con arquitectura moderna 
   - API Gateway
   - Circuit Breaker
   - Configuración centralizada
-
-
 
 ## 💡 Competencias Técnicas
 - Desarrollo de APIs RESTful
